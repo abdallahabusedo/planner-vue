@@ -1,4 +1,8 @@
 # planner-vue
+Planner is A TODO list 
+it's a one of the projects in net ninja VUE course 
+
+
 
 ## Project setup
 ```
